@@ -2,3 +2,4 @@
 echo 'Hello from Git'
 echo 'Hello ${date}'
 date
+whoami
