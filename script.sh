@@ -1,5 +1,5 @@
 #!/bin/bash
 echo 'Hello from Git'
-echo 'Hello ${date}'
+cho 'Hello ${date}'
 date
 whoami
